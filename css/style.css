@@ -248,6 +248,11 @@ header {
 
 .intro {
   position: relative;
+  background-image: url(../img/IntroBG.gif);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .intro__img {
